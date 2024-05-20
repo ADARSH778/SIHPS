@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:20-05-2024
+## Register Number:212223040166
+## Name: ADARSH CHOWDARY R
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
