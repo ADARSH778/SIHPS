@@ -49,7 +49,21 @@ Engage users in sustainability practices and encourage participation in recyclin
 ![Screenshot (96)](https://github.com/ADARSH778/SIHPS/assets/149347361/785183df-796f-48f5-9487-738b4844b223)
 
 ## Technology Stack
+CLIENT :
+  * Next.js (React framework)
+  * Tailwind CSS
+  * MapBox (for interactive maps)
+SERVER : 
+  * Node.js
+  * Express.js
 
+ DATABASE : 
+  * MongoDB
 
 ## Dependencies
 
+MAPPING SERVICES - 5 to 10 days
+
+DATA COLLECTION -  15 to 20 days 
+
+ESTIMATED BUDGET - Rs. 15000 to Rs. 20000
