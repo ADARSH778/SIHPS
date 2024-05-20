@@ -46,6 +46,7 @@ Engage users in sustainability practices and encourage participation in recyclin
 
 ## Use Cases
 
+![Screenshot (96)](https://github.com/ADARSH778/SIHPS/assets/149347361/785183df-796f-48f5-9487-738b4844b223)
 
 ## Technology Stack
 
