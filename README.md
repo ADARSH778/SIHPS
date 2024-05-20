@@ -53,6 +53,7 @@ CLIENT :
   * Next.js (React framework)
   * Tailwind CSS
   * MapBox (for interactive maps)
+    
 SERVER : 
   * Node.js
   * Express.js
